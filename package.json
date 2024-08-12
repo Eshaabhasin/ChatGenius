@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "sass": "^1.77.8",
+    "three": "^0.167.1",
+    "vanta": "^0.5.24"
+  }
+}
